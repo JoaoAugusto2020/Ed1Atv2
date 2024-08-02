@@ -1,6 +1,5 @@
-Estrutura de Dados I - Atividade 2
-
-Aluno: João Augusto Marciano Silva
+# Ed1Atv2
+Atividade 2 de Estrutura de Dados I - TAD (Tipo Abstrato de Dados)
 
 1
 Criar uma struct para armazenar um cliente, contendo os seguintes dados: nome, data de nascimento, idade e sexo. O sexo é apenas uma letra (M ou F) e a data de nascimento deve ser armazenada numa struct de data, com 3 inteiros (dia, mês e ano). A idade deve ser calculada quando a data de nascimento for lida, e não solicitada ao usuário. Guarde a data atual numa variável da struct de data e crie uma função para calcular a idade.
